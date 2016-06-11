@@ -1,0 +1,6 @@
+
+*.pyc
+*.py~
+*.log
+cifar10_data/
+MNIST_data/
